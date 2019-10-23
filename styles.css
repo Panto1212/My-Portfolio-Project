@@ -26,10 +26,58 @@ a {
     font-size: 20px;
 }
 
+.navigation {
+    margin-left: 1000px;
+}
+
 .fa {
     border-radius: 30px;
 }
 
 .fa-facebook {
     background-color: #4267B2;
+}
+
+.about-section {
+    text-align: center;
+    margin-bottom: 100px;
+    display: inline-block;
+}
+
+.about-section h3 {
+    font-size: 50px;
+    padding-left: 20px;
+}
+
+.profile {
+    text-align: center;
+    background-color: rgba(102, 117, 255, 0.5);
+    padding-top: 20px;
+    width: 500px;
+    padding-bottom: 50px;
+    font-size: 30px;
+    color: white;
+    margin-left: 300px;
+    margin-right: 10px;
+    float: left;
+}
+
+#me {
+    width: 200px;
+    height: 100%;
+    border-radius: 120px;
+}
+
+.skills {
+    background-color: rgba(102, 117, 255, 0.5);
+    width: 500px;
+    color: white;
+    text-align: left;
+    float: right;
+    padding: 50px 50px;
+    font-size: 20px;
+}
+
+.skills h4 {
+    font-size: 30px;
 }
